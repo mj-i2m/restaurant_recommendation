@@ -7,6 +7,3 @@ File to run the programm.
 
 ## vertex.py
 Stores the classes and functions used in the programm.
-
-##Other files
-not relevant
